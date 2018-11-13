@@ -8,3 +8,6 @@ handlers:
 
 - url: /name.php
   script: name.php
+
+- url: /upload.php
+  script: upload.php
